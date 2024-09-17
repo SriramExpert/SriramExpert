@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SRIRAM!;" />
 </h1>
 
-<img alt="Night Coding" src="./assets/Hnd%20Wave.gif" width='40' align="left"/>
+
 <h3 align="center">A Passionate software developer from India</h3>
 <br>
 
@@ -17,7 +17,7 @@
   
 </div>
 <br /> 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 <br /> 
 <div align="center">
   <h3>⚒️ Languages-Frameworks-Tools ⚒️</h3>
